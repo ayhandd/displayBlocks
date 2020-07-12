@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+   img{
+       height: 140px;
+       width: 140px;
+       margin: 2px;  
+   }
+
+    #wrapper{
+        width: 950px;
+        background-color: gold;
+        margin: 0px auto;
+    }
+
+   #title{
+    height: 105px;
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   #title img{
+    height: 100px;
+    width: 100px;
+
+   }
+   #main{
+       display: block;
+       padding: 15px;
+       text-align: center;
+   }
+   .title-context{
+       display: inline-block;
+       vertical-align: bottom;
+       margin: 10px;
+       text-align:center;
+   }
+   .photo-column{
+    display: inline-block;
+    vertical-align: top;
+    width: auto;
+    display: inline-block;
+    width: 160px;
+    margin: 2px;
+    
+   }
+   .blue-images{
+       background-color: cornflowerblue;
+       padding: 5px;
+       border: black solid 2px;
+   }
+   .red-images{
+    background-color: crimson;
+    padding: 5px;
+    border: black solid 2px;
+   }
